@@ -1,2 +1,2 @@
 # MCPL
-It is able to get minecraft some player profile easily and easily-code.
+It is able to get the profile of some Minecraft player easily and easily-code.
